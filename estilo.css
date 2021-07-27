@@ -108,7 +108,7 @@ div.footer{
     bottom: 0;
     width: 100%;
     height: 100vh;
-    background-color: #40ff69;
+    background-color: #40ff69;/**#40ff69**/
 }
 svg.waves{
     position: initial;
