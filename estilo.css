@@ -23,9 +23,10 @@ body{
     right: 0;
     background-color: whitesmoke;
     z-index: 2;
-    border-radius: 5px;
+    border-radius: 7px;
     font-family: sans-serif;
-    height: 350px;
+    height: 355px;
+    border: 1px solid rgb(184, 184, 184);
 }
 .nav ul{
     list-style: none;
@@ -39,7 +40,7 @@ body{
     
 }
 .nav ul li:hover a{
-    transition: .25s;
+    transition: .17s;
     font-size: 18px;
 }
 .btnDrop{
